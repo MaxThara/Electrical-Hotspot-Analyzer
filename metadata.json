@@ -1,0 +1,5 @@
+{
+  "name": "Electrical Hotspot Analyzer",
+  "description": "An application to upload thermal images of electrical equipment and use Gemini to analyze them for hotspots and potential issues.",
+  "requestFramePermissions": []
+}
